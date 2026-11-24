@@ -3,7 +3,7 @@ title: "ดนตรีและความเชื่อ"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/w501worship.jpg
 ---
 
 ผมใช้เวลามากมายในการฟังนักดนตรีในอินสตาแกรม นี่คือบางคนที่ผมฟังอยู่ช่วงนี้
@@ -14,74 +14,67 @@ shareImage: /images/music-faith/sonreal.jpg
 
 พวกเขาไม่ได้ร้องเพลงนมัสการกันทุกคน ส่วนใหญ่แค่ร้องเรื่องชีวิต และความเชื่อเป็นส่วนหนึ่งของมัน นั่นคือสิ่งที่ผมชอบในตัวพวกเขา แตะการ์ดเพื่อชมเพลงในอินสตาแกรม
 
-ผมทำวิดีโอรีแอกชันเพลงใหม่ของ SonReal ด้วย คุณชมได้ที่นี่:
-
-[รีแอกชันของผมต่อวิดีโอใหม่ของ SonReal](https://www.youtube.com/shorts/wePjZMr6beE)
+เพลงเหล่านี้เป็นภาษาไทย พวกเขาคือนักดนตรีที่ร้องเพลงภาษาไทย — บางคนร้องเพลงนมัสการ บางคนร้องเรื่องชีวิต และความเชื่อเป็นส่วนหนึ่งของมัน
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">แร็ปตลกๆ ที่ให้ความหวัง เรื่องการรู้จักเพลงดีเมื่อได้ยิน อย่าตัดสินหนังสือจากปก</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Df1xotqybjM/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/w501worship.jpg" alt="W501" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">W501</span>
+<span class="ig-card__note">เพลงนมัสการภาษาไทย เพื่อแผ่นดินไทย</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">“ผมจะกันที่นั่งไว้ให้คุณ” เพลงอ่อนโยน และเก้าอี้ที่ว่างอยู่</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgFORjhgYlX/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/crossover_music.jpg" alt="Crossover" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Crossover</span>
+<span class="ig-card__note">เพลงคริสเตียนภาษาไทย ฟังต่อเนื่องได้</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">เพลง “Notice” ของเธอออกมาแล้วในที่สุด มากกว่าหนึ่งปีหลังจากที่เธอเล่นครั้งแรก</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Db8RwTKh876/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/soulfood_ministry.jpg" alt="Soul Food Ministry" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Soul Food Ministry</span>
+<span class="ig-card__note">เพลงและเนื้อหาที่เป็นอาหารของจิตใจ</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">“Your Heart in the Fire” — โฟล์กโลไฟจากทางเหนือ ซื่อสัตย์ ผ่านร้อนผ่านหนาว ดิบ</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgCfFQiCAdj/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/sunit_rattanalertsakul.jpg" alt="Sunit Arngi" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sunit Arngi</span>
+<span class="ig-card__note">รับใช้พระเจ้าด้วยเสียงเพลง</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">เขามอบชีวิตให้พระเจ้าเมื่อปีที่แล้ว ตอนนี้เขาอยากเล่าเรื่องของเขา และสรรเสริญพระองค์ไปด้วย</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DemXfvRvbFJ/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/amiegulati.jpg" alt="Amie Gulati" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Amie Gulati</span>
+<span class="ig-card__note">เดินในพระคุณ ร้องเพลงด้วยความเชื่อ</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">เพลงใหม่ของเขา “Not Alone” และห้องหนึ่งในซานฟรานซิสโกที่ร้องทุกคำ</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgEXmMsTgTl/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/songsawang_music.jpg" alt="Songsawang Music" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Songsawang Music</span>
+<span class="ig-card__note">บทเพลงส่องสว่างชีวิต จากคริสตจักรแสงสว่าง</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">“Secret Fort” — วันวัยเด็กหลังโบสถ์ ระฆังยามเย็น เพื่อนที่ดีที่สุด และโลกในจินตนาการ</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DdsvasTTSPD/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/lightechoband_official.jpg" alt="Light Echo" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Light Echo</span>
+<span class="ig-card__note">วงดนตรีคริสเตียน ร้องเพลงนมัสการ</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">เพลงใหม่จากลูกา 15 ลูกชายที่หลงหาย “Let Me Go”</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgHDID4KCNh/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/khristphiraks.jpg" alt="พรสวรรค์ คริสต์ภิรักษ์" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">พรสวรรค์ คริสต์ภิรักษ์</span>
+<span class="ig-card__note">ร้องเพลงนมัสการทุกวัน ถวายเกียรติพระเจ้า</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">“พระเยซูทรงเมตตา ทัวร์คือของขวัญ” เพลงของเธอ เล่นที่บ้าน</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgFgsn-S-D7/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/myguitar_mypiano.jpg" alt="Thanadon Chermue" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Thanadon Chermue</span>
+<span class="ig-card__note">นักดนตรีคริสเตียน เล่นกีตาร์และเปียโนเพื่อนมัสการ</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">เพลง “keep going” ของเธอ — เพลงพระเยซูย้อนยุคชวนฝัน ออกแล้วตอนนี้</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DgBl-4dExhn/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/rainbeau_thenextgen.jpg" alt="Rainbeau" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Rainbeau</span>
+<span class="ig-card__note">ร้องเพลงถวายพระเจ้า ด้วยใจที่กลับมาหาพระองค์</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">“ทุกคนรู้จักใครสักคนที่ต้องได้ยินเรื่องพระเยซู”</span></span>
-</a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">เพลงเกี่ยวกับเส้นทางสุขภาพจิตของเธอ และยังเป็นป๊อปพังก์ด้วย</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfZI1pFj7nw/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/actsmusicthailand.jpg" alt="ACTS MUSIC" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">ACTS MUSIC</span>
+<span class="ig-card__note">เพลงนมัสการภาษาไทย นำหัวใจเข้าสู่การทรงสถิต</span></span>
 </a>
 </div>
 
-ผมสงสัยว่าเพลงไหนอุ้มคุณมา เพลงไหนประคองความเชื่อของคุณไว้ตอนที่คำพูดหมดลง? และในสิบสองคนนี้ คุณจะฟังใครก่อน?
+ผมสงสัยว่าเพลงไหนอุ้มคุณมา เพลงไหนประคองความเชื่อของคุณไว้ตอนที่คำพูดหมดลง? และในสิบเอ็ดคนนี้ คุณจะฟังใครก่อน?
 
 บอกผมหน่อยว่าคุณฟังอะไรอยู่ ผมมองหาเพลงใหม่อยู่เสมอ
 
